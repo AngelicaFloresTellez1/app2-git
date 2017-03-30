@@ -250,7 +250,7 @@ Al terminar la guerra el monopolio de comunicaciones AT&T, tomó concepto del tr
                    <div data-role="collapsible" data-theme="b" data-content-theme="e">
                    <h3>Iusacell</h3>
                    <a href="https://www.recharge.com/es-MX/recargas-iusacell?aid=9&gclid=Cj0KEQjw2fLGBRDopP-vg7PLgvsBEiQAUOnIXPREyuMzbWwYWK7d-i1rS_3gvE1-d3aioHtIiYIPus4aAsfi8P8HAQ">Iusacell</a>
-                   <img src="imagenes/iusacell.jpg" width="145" height="144">
+                   <img src="imagenes/iusacell.jpg" width="99" height="100">
                    </div>
                 <!--linea agreagada-->
            </div>
@@ -285,12 +285,14 @@ Al terminar la guerra el monopolio de comunicaciones AT&T, tomó concepto del tr
 
 Project Ara va ya en su segundo prototipo de celular funcional, el Spiral 2, construido a base de bloques independientes de cámaras, pantallas, altavoces y microprocesadores fabricados por diferentes empresas. </p>
                    <img src="imagenes/ara.jpg" width="203" height="100">
+                   </div>
+                   
                    <div data-role="collapsible" data-theme="b" data-content-theme="e">
-                     <h3>Pantallas Flexibles Samsung </h3>
-                     <p>Desde la feria tecnológica CES 2013 Samsung sorprendió al mundo al presentar los prototipos funcionales de un teléfono inteligente con una pantalla completamente flexible. De hecho, el modelo presentado, con Windows Phone, se guardaba en una caja plástica y de ahí salía desenrollado y listo para ser manipulado.
-                       
-                       Samsung también presentó el video comercial de una tablet capaz de doblarse a la mitad para convertirse en teléfono, </p>
-                     <img src="imagenes/samsung.jpg" width="147" height="100"> </div>
+                   <h3>Pantallas Flexibles Samsung </h3>
+                   <p>Desde la feria tecnológica CES 2013 Samsung sorprendió al mundo al presentar los prototipos funcionales de un teléfono inteligente con una pantalla completamente flexible. De hecho, el modelo presentado, con Windows Phone, se guardaba en una caja plástica y de ahí salía desenrollado y listo para ser manipulado.
+
+Samsung también presentó el video comercial de una tablet capaz de doblarse a la mitad para convertirse en teléfono, </p>
+                   <img src="imagenes/samsung.jpg" width="147" height="100">
                    </div>
                 <!--linea agreagada-->
                  </div>
